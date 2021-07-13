@@ -13,6 +13,8 @@
   },
   "husky": {
     "hooks": {
+
+
       
       "pre-commit": "npm run prettier-format && npm run lint"
     }
